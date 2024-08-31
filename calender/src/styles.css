@@ -1,0 +1,54 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    text-align: center;
+    
+    }
+    h1{
+    
+        border: 1px solid blue;
+        padding: 10px 35px;
+        border-radius: 10px;
+        display:inline-block;
+    }
+    .hgry{
+        margin-top: 50px;
+        border-top: 1px solid blue;
+        background-color: rgba(159, 206, 247, 0.356);
+    }
+    h3{
+        position: relative;
+        top: -40px;
+        background-color: white;
+        display:inline-block;
+        padding: 10px 30px;
+        border-radius: 10px;
+        border: 1px solid blue;
+    }
+    .inputt{
+    
+        display: flex;
+        justify-content: space-evenly;
+        align-items:center;
+    }
+    input{
+        padding: 4px;
+        border-radius: 5px;
+    }
+    button{
+        background-color: blue;
+        padding: 5px 25px ;
+        color: white;
+        font-size: 20px;
+        border-radius: 10px;
+        margin: 20px;
+    }
+    table{
+        margin-top: 40px;
+        text-align: right;
+     width: 100%;
+    }
+    td {
+        border: 1px solid rgba(0, 0, 0, 0.184);
+        padding: 10px;
+        margin: 0px;
+    }
